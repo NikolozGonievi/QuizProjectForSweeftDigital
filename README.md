@@ -1,0 +1,2 @@
+# QuizProjectForSweeftDigital
+დავალება სტაჟირებისთვის
