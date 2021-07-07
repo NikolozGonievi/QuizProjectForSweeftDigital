@@ -1,0 +1,65 @@
+body{
+  background-color: rgba(235, 229, 229, 0.596);
+  margin:25px;
+}
+.mainContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+  align-items: center;
+  border: 10px solid rgb(rgb(89, 90, 170), green, blue);
+  background-color: rgb(220, 222, 228);
+  box-shadow: 10px 5px 5px grey;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 25px;
+  min-height: 450px;
+}
+.mainContainer label{
+  font-size: large;
+  font-weight: 400;
+  
+}
+.mainContainer input,select{
+  width:300px;  
+  border-radius: 5px;
+  min-height: 30px;
+}
+
+
+.mainContainer input{
+  text-align: center;  
+  
+}
+
+.testStyles{
+  display:flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  padding-left: 15px;
+  padding-top: 7px;
+}
+
+.testStles label{
+  font-size: 50;
+}
+.buttonsDiv{
+  display: flex;
+  flex-direction: row;
+  padding: 15px 20px; 
+    
+}
+.buttonsDiv button{
+margin:5px;
+border-radius: 5px;
+min-width:180px;
+min-height:40px;
+}
+
+.result{
+  font-size: 25px;
+  font-weight: bold;
+}
+
